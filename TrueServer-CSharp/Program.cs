@@ -11,6 +11,11 @@ namespace TrueServer_CSharp
     {
         static void Main(string[] args)
         {
+            DataManagement dm = new DataManagement();
+            String Servers_json  = dm.getJSON();
+            Console.WriteLine(Servers_json);
+
+            Console.Read();
         }
     }
 }
