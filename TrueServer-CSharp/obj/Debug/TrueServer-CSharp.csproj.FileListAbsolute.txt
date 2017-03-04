@@ -1,1 +1,8 @@
 J:\CS\TrueServer-Csharp\TrueServer-CSharp\bin\Debug\TrueServer-CSharp.exe.config
+J:\CS\TrueServer-Csharp\TrueServer-CSharp\bin\Debug\TrueServer-CSharp.exe
+J:\CS\TrueServer-Csharp\TrueServer-CSharp\bin\Debug\TrueServer-CSharp.pdb
+J:\CS\TrueServer-Csharp\TrueServer-CSharp\bin\Debug\Newtonsoft.Json.dll
+J:\CS\TrueServer-Csharp\TrueServer-CSharp\bin\Debug\Newtonsoft.Json.xml
+J:\CS\TrueServer-Csharp\TrueServer-CSharp\obj\Debug\TrueServer-CSharp.csprojResolveAssemblyReference.cache
+J:\CS\TrueServer-Csharp\TrueServer-CSharp\obj\Debug\TrueServer-CSharp.exe
+J:\CS\TrueServer-Csharp\TrueServer-CSharp\obj\Debug\TrueServer-CSharp.pdb
